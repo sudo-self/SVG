@@ -11,6 +11,17 @@
 ```
 ![Screenshot 2024-01-10 at 7 19 45 PM](https://github.com/sudo-self/SVG/assets/119916323/e9a0e089-6b72-42b2-b3e5-5ddab5f3670f)
 
+## Use as a backgroung object
+```
+<style>
+    body{
+        background-image: url("data:image/ ");  <!------DATA URI HERE------>
+        background-repeat: no-repeat;
+        background-size: 50%;             <!---------- ADJUST SIZE --------->
+        background-attachment: fixed;
+    }
+ </style> 
+```
 
 ## Usage
 
