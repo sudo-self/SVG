@@ -2,11 +2,13 @@
 ## Create them with photo software or with SVG web tools  [](https://maketext.io)https://maketext.io
 <img width="489" alt="Screenshot 2023-09-04 at 2 48 06 AM" src="https://github.com/sudo-self/SVG/assets/119916323/a7d996b2-bb42-4f0a-9ad1-3e90f628f68f"><br><br>
 
-## Edit the x and y values for size and the fill= value for color
+## to write them edit the x and y values for size and the fill= value for color
 
+```
 <svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
   <text x="10" y="40" font-family="Karla" font-size="40" fill="blue">This SVG is BLUE</text>
 </svg>
+```
 
 
 ## Usage
