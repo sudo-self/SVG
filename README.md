@@ -9,6 +9,7 @@
   <text x="10" y="40" font-family="Karla" font-size="40" fill="blue">This SVG is BLUE</text>
 </svg>
 ```
+![Screenshot 2024-01-10 at 7 19 45 PM](https://github.com/sudo-self/SVG/assets/119916323/e9a0e089-6b72-42b2-b3e5-5ddab5f3670f)
 
 
 ## Usage
