@@ -10,6 +10,7 @@
 </svg>
 ```
 ![Screenshot 2024-01-10 at 7 19 45 PM](https://github.com/sudo-self/SVG/assets/119916323/e9a0e089-6b72-42b2-b3e5-5ddab5f3670f)
+![Screenshot 2024-01-10 at 7 31 27 PM](https://github.com/sudo-self/SVG/assets/119916323/8629672c-e7b7-4f88-b85f-d75ab1270846)
 
 ## SVG background
 ```
